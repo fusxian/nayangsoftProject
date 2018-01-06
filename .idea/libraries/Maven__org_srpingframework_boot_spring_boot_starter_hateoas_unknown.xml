@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.srpingframework.boot:spring-boot-starter-hateoas:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/srpingframework/boot/spring-boot-starter-hateoas/unknown/spring-boot-starter-hateoas-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/srpingframework/boot/spring-boot-starter-hateoas/unknown/spring-boot-starter-hateoas-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/srpingframework/boot/spring-boot-starter-hateoas/unknown/spring-boot-starter-hateoas-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
